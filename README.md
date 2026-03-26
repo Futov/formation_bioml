@@ -17,3 +17,4 @@ Toutes les ressources utilisées sont gratuites.
 ## Phase 0 — Semaines complétées
 
 - **S1** — Bases Python : variables, fonctions, boucles → [Notebook](phase0/semaine1/Semaine1_IMC.ipynb)
+- **S2** — Structures Python & CSV : listes, dicts, csv.DictReader → [Notebook](phase0/semaine2/Semaine2_Structures.ipynb)
