@@ -42,3 +42,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.sublime-workspace
+
+# Fichiers indésirable
+patients_a_risque
