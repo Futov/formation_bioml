@@ -25,6 +25,7 @@ data/raw/
 *.xls
 *.parquet
 *.txt
+!requirements.txt
 
 # Modèles entraînés — souvent trop lourds pour GitHub
 models/
