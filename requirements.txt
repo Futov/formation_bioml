@@ -43,7 +43,7 @@ parso==0.8.6
 # pexpect: Permet de contrôler d'autres programmes, d'envoyer des commandes et d'attendre des réponses.
 pexpect==4.9.0
 # pillow: Bibliothèque de traitement d'images (fork de PIL).
-pillow==12.1.1
+pillow==12.2.0
 # platformdirs: Détermine les répertoires spécifiques à l'OS pour les données utilisateur, la configuration, le cache, etc.
 platformdirs==4.9.4
 # prompt_toolkit: Bibliothèque pour construire des interfaces de ligne de commande interactives. Utilisé par IPython.
