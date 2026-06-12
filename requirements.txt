@@ -43,7 +43,7 @@ parso==0.8.6
 # pexpect: Permet de contrôler d'autres programmes, d'envoyer des commandes et d'attendre des réponses.
 pexpect==4.9.0
 # pillow: Bibliothèque de traitement d'images (fork de PIL).
-pillow==12.1.1
+pillow==12.2.0
 # platformdirs: Détermine les répertoires spécifiques à l'OS pour les données utilisateur, la configuration, le cache, etc.
 platformdirs==4.9.4
 # prompt_toolkit: Bibliothèque pour construire des interfaces de ligne de commande interactives. Utilisé par IPython.
@@ -67,7 +67,7 @@ six==1.17.0
 # stack-data: Extrait des informations de la pile d'appels pour le débogage.
 stack-data==0.6.3
 # tornado: Framework web asynchrone et bibliothèque de mise en réseau. Utilisé par Jupyter.
-tornado==6.5.5
+tornado==6.5.6
 # traitlets: Système de configuration et de validation pour Python. Utilisé par Jupyter.
 traitlets==5.14.3
 # wcwidth: Calcule la largeur d'affichage des caractères Unicode. Utilisé par prompt_toolkit.
